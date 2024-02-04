@@ -43,10 +43,10 @@
 <h2 align="center">❄️ Where to find me ❄️</h2>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tailh1998/" target="blank">
+  <a href="https://www.linkedin.com/in/tailh1998/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="lht-linkedin" />
   </a>
-  <a href="mailto:taile06121998@gmail.com" target="top">
+  <a href="mailto:taile06121998@gmail.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="lht-email" />
   </a>
 </div>
